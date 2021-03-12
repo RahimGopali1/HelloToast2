@@ -6,7 +6,7 @@ Task 1
 <br>
 Coding challenge
 <br>
-<img src="codechallenge1.png" width="250" height="400">
+<img src="Codingchallenge-1.png" width="250" height="400">
 <br>
 Task 2
 <br>
