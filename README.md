@@ -1,4 +1,4 @@
 # Coding challenge
 <br>
-<img src="Codingchallenge-1.png" width="250" height="400">
+<img src="Codingchallenge-1.png" width="450" height="200">
 <br>
