@@ -1,10 +1,6 @@
 # HelloToast2
 
-<br>
-Coding challenge
-<br>
-<img src="Codingchallenge-1.png" width="250" height="400">
-<br>
+
 Task 2
 <br>
 <img src="task2.png" width="250" height="400">
